@@ -1,51 +1,53 @@
-About dataset:
-The dataset "earthquakes 2023 global" provides valuable information about earthquakes worldwide in the year 2023. This dataset includes various parameters such as time, location (latitude and longitude), depth, magnitude, magnitude type, and more. In this exploration, we will delve into the dataset to gain insights into the seismic activity observed throughout the year.
+# About dataset:
+The dataset "earthquakes 2023 global" provides valuable information about earthquakes worldwide in the year 2023. 
+This dataset includes various parameters such as time, location (latitude and longitude), depth, magnitude, magnitude type, and more. 
+In this exploration, we will delve into the dataset to gain insights into the seismic activity observed throughout the year.
 
-The dataset consists of the following columns:
+## The dataset consists of the following columns:
 
-Time: Timestamp of the earthquake event.
+- Time: Timestamp of the earthquake event.
 
-Latitude: Geographic coordinate specifying the north-south position.
+- Latitude: Geographic coordinate specifying the north-south position.
 
-Longitude: Geographic coordinate specifying the east-west position.
+- Longitude: Geographic coordinate specifying the east-west position.
 
-Depth: Depth of the earthquake in kilometers.
+- Depth: Depth of the earthquake in kilometers.
 
-Mag: Magnitude of the earthquake.
+- Mag: Magnitude of the earthquake.
 
-MagType: Type of magnitude measurement.
+- MagType: Type of magnitude measurement.
 
-Nst: Number of seismic stations that reported the earthquake.
+- Nst: Number of seismic stations that reported the earthquake.
 
-Gap: The gap between different seismic stations' coverage.
+- Gap: The gap between different seismic stations' coverage.
 
-Dmin: Minimum distance to the earthquake epicenter for the nearest station.
+- Dmin: Minimum distance to the earthquake epicenter for the nearest station.
 
-Rms: Root Mean Square of the earthquake's amplitude spectrum.
+- Rms: Root Mean Square of the earthquake's amplitude spectrum.
 
-Net: Network reporting the earthquake.
+- Net: Network reporting the earthquake.
 
-Id: Unique identifier for the earthquake event.
+- Id: Unique identifier for the earthquake event.
 
-Updated: Timestamp indicating when the earthquake information was last updated.
+- Updated: Timestamp indicating when the earthquake information was last updated.
 
-Place: Location description of the earthquake.
+- Place: Location description of the earthquake.
 
-Type: Type of seismic event (e.g., earthquake).
+- Type: Type of seismic event (e.g., earthquake).
 
-HorizontalError: Horizontal error in location determination.
+- HorizontalError: Horizontal error in location determination.
 
-DepthError: Error in depth determination.
+- DepthError: Error in depth determination.
 
-MagError: Error in magnitude determination.
+- MagError: Error in magnitude determination.
 
-MagNst: Number of seismic stations used to calculate the magnitude.
+- MagNst: Number of seismic stations used to calculate the magnitude.
 
-Status: Status of the earthquake event (e.g., reviewed).
+- Status: Status of the earthquake event (e.g., reviewed).
 
-LocationSource: Source reporting the earthquake location.
+- LocationSource: Source reporting the earthquake location.
 
-MagSource: Source reporting the earthquake magnitude.
+- MagSource: Source reporting the earthquake magnitude.
 
 
 Analysis Types can be made with this dataset:
