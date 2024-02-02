@@ -1,0 +1,15 @@
+# About Dataset
+Population is increasing regularly. We need to identify the growth of population of each city of each country. 
+If the population is not controlled then it can create a huge problem. It will directly effect the resources of nature elements. 
+This dataset contain population growth of each city of each country.
+Here we have columns:
+1. Population in 2022
+2. Population in 2023
+3. City
+4. Country
+5. Population growth rate
+6. Type¶
+
+Problem Statement - 
+        This project understands how the Population (Natural Resources) is affected by other variables 
+such as Poplation in 2022, Population in 2023, City, Country, Population Growth Rate and Type 3.
